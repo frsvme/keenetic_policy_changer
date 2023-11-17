@@ -4,6 +4,7 @@ Simple bat script for change Policy setting on keenetic-based routers.
 ### Prerequisites
 * plink
 
+### Installation
 Download [Plink](https://putty.org.ru/files/putty-0.73-ru-17/plink.exe) and place "plink.exe" file to the directory "C:\Program Files\Plink".
 
 Download "ChangePolicy.bat" and place where you want.
