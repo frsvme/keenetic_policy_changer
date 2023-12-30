@@ -1,7 +1,7 @@
 # Keenetic Policy Changer
 Simple bat script for change Policy setting on keenetic-based routers.
 
-### Prerequisites
+### Requirements
 * plink
 
 ### Installation
